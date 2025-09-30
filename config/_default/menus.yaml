@@ -1,0 +1,117 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 6504afed-2535-2a8a-31f9-c763e8a195cd
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 7ce1813f-db76-a5a2-ea55-a37500cdc36f
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 318d3aa9-d2c2-ae2d-5275-22cb1a380604
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: 82200b34-4889-d669-13a6-32045649511c
+  name: Course History
+  pageRef: /pages/instructor-insights/course-history
+  parent: 318d3aa9-d2c2-ae2d-5275-22cb1a380604
+  weight: 40
+- identifier: d13dc85a-5b8a-d0ba-1d05-95ac707d284d
+  name: Film Selections and Viewing Experiences
+  pageRef: /pages/instructor-insights/film-selections-and-viewing-experiences
+  parent: 318d3aa9-d2c2-ae2d-5275-22cb1a380604
+  weight: 50
+- identifier: 0895737f-c17d-cf95-8947-6562dd9a8f9b
+  name: Facilitating Discussions in Spanish
+  pageRef: /pages/instructor-insights/facilitating-discussions-in-spanish-with-students-at-different-language-proficiency-levels
+  parent: 318d3aa9-d2c2-ae2d-5275-22cb1a380604
+  weight: 60
+- identifier: 05d0b009-3aec-274d-85ab-c449833e6ff6
+  name: Using Fotogramas as Study Tools
+  pageRef: /pages/instructor-insights/using-fotogramas-as-study-tools
+  parent: 318d3aa9-d2c2-ae2d-5275-22cb1a380604
+  weight: 70
+- identifier: 7dcfa077-073f-b180-d8db-58360a32eb03
+  name: Weeks 1-15
+  pageRef: /pages/weeks-1-15/
+  weight: 80
+- identifier: ded16d05-ce1d-f864-c4ed-ea235d616fd7
+  name: Week 1
+  pageRef: /pages/weeks-1-15/week-1
+  parent: 7dcfa077-073f-b180-d8db-58360a32eb03
+  weight: 90
+- identifier: f0a046d2-2339-9c25-0d8a-2b81f438bd26
+  name: Week 2
+  pageRef: /pages/weeks-1-15/week-2
+  parent: 7dcfa077-073f-b180-d8db-58360a32eb03
+  weight: 100
+- identifier: 76e75ff4-07e5-638c-7768-9c4d26a80565
+  name: Week 3
+  pageRef: /pages/weeks-1-15/week-3
+  parent: 7dcfa077-073f-b180-d8db-58360a32eb03
+  weight: 110
+- identifier: 278e6699-eaed-7509-87f5-298863c704f3
+  name: Week 4
+  pageRef: /pages/weeks-1-15/week-4
+  parent: 7dcfa077-073f-b180-d8db-58360a32eb03
+  weight: 120
+- identifier: 42c7a8da-002e-868c-a005-cae63ef0db23
+  name: Week 5
+  pageRef: /pages/weeks-1-15/week-5
+  parent: 7dcfa077-073f-b180-d8db-58360a32eb03
+  weight: 130
+- identifier: 5b978f40-8a8d-f5d9-85e8-2c8aff0d8992
+  name: Week 6
+  pageRef: /pages/weeks-1-15/week-6
+  parent: 7dcfa077-073f-b180-d8db-58360a32eb03
+  weight: 140
+- identifier: 729e205f-e0fd-600e-d160-7834ae72cd31
+  name: Week 7
+  pageRef: /pages/weeks-1-15/week-7
+  parent: 7dcfa077-073f-b180-d8db-58360a32eb03
+  weight: 150
+- identifier: b512b2e9-350b-4378-ab1e-7fe4f8b34a23
+  name: Week 8
+  pageRef: /pages/weeks-1-15/week-8
+  parent: 7dcfa077-073f-b180-d8db-58360a32eb03
+  weight: 160
+- identifier: 2b580558-0be0-5b03-8d07-9d8a8b9b66e5
+  name: Week 9
+  pageRef: /pages/weeks-1-15/week-9
+  parent: 7dcfa077-073f-b180-d8db-58360a32eb03
+  weight: 170
+- identifier: 4e4a98ff-bb8d-62a8-c78d-7d413cc22d68
+  name: Week 10
+  pageRef: /pages/weeks-1-15/week-10
+  parent: 7dcfa077-073f-b180-d8db-58360a32eb03
+  weight: 180
+- identifier: 77259e5e-3d1c-7f2e-a4e6-45573ff303a7
+  name: Week 11
+  pageRef: /pages/weeks-1-15/week-11
+  parent: 7dcfa077-073f-b180-d8db-58360a32eb03
+  weight: 190
+- identifier: 6f1dd9f3-31b9-a21b-06e3-f172bf6911b1
+  name: Week 12
+  pageRef: /pages/weeks-1-15/week-12
+  parent: 7dcfa077-073f-b180-d8db-58360a32eb03
+  weight: 200
+- identifier: f57be051-2e13-5324-845d-c6ab09ff5d7a
+  name: Week 13
+  pageRef: /pages/weeks-1-15/week-13
+  parent: 7dcfa077-073f-b180-d8db-58360a32eb03
+  weight: 210
+- identifier: dbc3d45d-139e-2ff0-3ed1-481203c8eeee
+  name: Weeks 14 & 15
+  pageRef: /pages/weeks-1-15/weeks-14-15
+  parent: 7dcfa077-073f-b180-d8db-58360a32eb03
+  weight: 220
+- identifier: 09c9ba1c-b19d-be96-03d3-99d7115268b1
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 230
+- identifier: c1fb9c3c-4bf6-ccf4-e935-20e00a1f8add
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 240
