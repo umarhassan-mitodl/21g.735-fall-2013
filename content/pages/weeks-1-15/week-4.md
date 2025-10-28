@@ -15,7 +15,7 @@ uid: 278e6699-eaed-7509-87f5-298863c704f3
 
 ### Topic
 
-[*Las Hurdes*](http://www.imdb.com/title/tt0023037/?ref_=fn_al_tt_1) (Also known as *Tierra sin pan* or *Land Without Bread*). Directed by Luis Buñuel. Black and White, 30 min. Ramón Acín, 1933.
+{{% resource_link "b11c9071-ede4-4f8c-9b00-b88a83def7f7" "*Las Hurdes*" %}} (Also known as *Tierra sin pan* or *Land Without Bread*). Directed by Luis Buñuel. Black and White, 30 min. Ramón Acín, 1933.
 
 ### Readings
 
@@ -29,13 +29,13 @@ Reading notes for Chapters 1–14 for *Mi último suspiro*.
 
 ### Topic
 
-Continue discussing [*Las Hurdes*](http://www.imdb.com/title/tt0023037/?ref_=fn_al_tt_1).
+Continue discussing {{% resource_link "b11c9071-ede4-4f8c-9b00-b88a83def7f7" "*Las Hurdes*" %}}.
 
 ### Readings
 
 Vilar, Pierre. "The Crisis of the Monarchy (1917–31)" and "The Republic (1931–1936)." In *Spain: A Brief History*. Pergamon Press, 1977. ISBN: 9780080214610.
 
-Mauer, Barry. "Asynchronous Documentary: Buñuel's 'Land Without Bread'." In *Lowering the Boom: Critical Studies in Film Sound*. Edited by Jay Bech and Tony Grajeda. University of Illinois Press, 2008, pp. 141–51. ISBN: 9780252075322. \[Preview with [Google Books](http://books.google.com/books?id=VoKROBFWuvoC&pg=PA141=onepage)\]
+Mauer, Barry. "Asynchronous Documentary: Buñuel's 'Land Without Bread'." In *Lowering the Boom: Critical Studies in Film Sound*. Edited by Jay Bech and Tony Grajeda. University of Illinois Press, 2008, pp. 141–51. ISBN: 9780252075322. \[Preview with {{% resource_link "ed6ed138-5ae5-4849-88a2-2a18468b7209" "Google Books" %}}\]
 
 Buñuel, Luis. "Tierra sin pan." (Lecture presented in New York in 1940) and "El cine, instrument de poesía." (Lecture presented in Mexico in 1953). In *Escritos de Luis Buñuel*. Editorial Paginas de Espuma, 2000. ISBN: 9788493124304.
 
