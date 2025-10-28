@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the list of topics and readings for the eighth
   week of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Weeks 1-15
@@ -31,7 +29,7 @@ Session 13
 
 ### Topic
 
-[_Ensayo de un crimen_](http://www.imdb.com/title/tt0048037/?ref_=fn_al_tt_1). Directed by Luis Buñuel. Black and White, 89 min. Alianza Cinematográfica Española, 1955.
+{{% resource_link "dece2a39-e7a2-484c-ae51-ec01137f44c6" "_Ensayo de un crimen_" %}}. Directed by Luis Buñuel. Black and White, 89 min. Alianza Cinematográfica Española, 1955.
 
 ### Reading
 

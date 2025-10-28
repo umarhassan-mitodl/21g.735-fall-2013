@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the list of topics, and readings, and assignments
   for the third week of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Weeks 1-15
@@ -18,7 +16,7 @@ Session 4
 
 ### Topic
 
-Continue discussing [_Le charme discret de la bourgeoisie_](http://www.imdb.com/title/tt0068361/?ref_=nv_sr_1) (_El discreto encanto de la burguesía_).
+Continue discussing {{% resource_link "c8d4a633-3d7f-4daf-811e-d7cdef3b7213" "_Le charme discret de la bourgeoisie_" %}} (_El discreto encanto de la burguesía_).
 
 ### Readings
 
@@ -28,7 +26,7 @@ Continue discussing [_Le charme discret de la bourgeoisie_](http://www.imdb.com/
 
 ### Recommended
 
-Babington, Bruce, and Peter William Evans. "[The Life of the Interior: Dreams in the Films of Luis Buñuel](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8705.1985.tb00810.x/abstract)." _Critical Quarterly_ 27, no. 4 (1985): 5–20.
+Babington, Bruce, and Peter William Evans. "{{% resource_link "e82e0a03-5540-4104-b862-8d162b777682" "The Life of the Interior: Dreams in the Films of Luis Buñuel" %}}." _Critical Quarterly_ 27, no. 4 (1985): 5–20.
 
 By this class, students are expected to have read \[Mi último suspiro\] Buñuel's. Chapters 1–11, pp. 9–156.
 

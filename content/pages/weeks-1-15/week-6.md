@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the list of topics and readings for the sixth week
   of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Weeks 1-15
@@ -18,7 +16,7 @@ Session 9
 
 ### Topic
 
-[_El ángel exterminador_](http://www.imdb.com/title/tt0056732/?ref_=nv_sr_1). Directed by Luis Buñuel. Black and White, 95 min. Producciones Gustavo Alatriste, 1962.
+{{% resource_link "f2732625-2aa1-4162-9ce7-893289a20bb5" "_El ángel exterminador_" %}}. Directed by Luis Buñuel. Black and White, 95 min. Producciones Gustavo Alatriste, 1962.
 
 ### Reading
 

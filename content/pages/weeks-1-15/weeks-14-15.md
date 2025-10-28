@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the list of topics, readings, and assignments for
   the fourteenth and fifteenth weeks of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Weeks 1-15
@@ -18,7 +16,7 @@ Session 24
 
 ### Topic
 
-Continue discussing [_Cet obscure objet du désir_](http://www.imdb.com/title/tt0075824/?ref_=nv_sr_1).
+Continue discussing {{% resource_link "9458125f-187c-4df5-8043-4ae9b686ee5c" "_Cet obscure objet du désir_" %}}.
 
 ### Reading
 

@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the list of topics, films, readings, and assignments
   for the eleventh week of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Weeks 1-15
@@ -18,19 +16,19 @@ Session 18
 
 ### Topic
 
-Continue discussing [_Viridiana_](http://www.imdb.com/title/tt0055601/?ref_=fn_al_tt_1)_._ 
+Continue discussing {{% resource_link "4de27d44-3333-4cc5-9d85-d22bea5eaa6b" "_Viridiana_" %}}_._ 
 
 Student group presents on _Viridiana_.
 
 ### Reading
 
-Rodríguez, José Luis. "[Contamination and Transformation: A Kristevan Reading of Luis Buñuel's _Viridiana_](http://dx.doi.org/10.1386/shci.1.3.169/1)." _Studies in Hispanic Cinema_ 1, no. 3 (2005): 169–80.
+Rodríguez, José Luis. "{{% resource_link "07cb2a26-7df2-41e9-b3c0-6c46e4bf9652" "Contamination and Transformation: A Kristevan Reading of Luis Buñuel's _Viridiana_" %}}." _Studies in Hispanic Cinema_ 1, no. 3 (2005): 169–80.
 
 Session 19
 ----------
 
 ### Film
 
-[_Journal d'une Femme de Chambre_](http://www.imdb.com/title/tt2711898/?ref_=nv_sr_1) (_Diario de una camarera_ / _Diary of a Chambermaid_). Directed by Benoît Jacquot. Color, 96 min. Les Films du Lendemain, JPG Productions, Les Films du Fleuve, 2015.
+{{% resource_link "63577b6a-6054-4a22-8113-dfdc72b3c8c9" "_Journal d'une Femme de Chambre_" %}} (_Diario de una camarera_ / _Diary of a Chambermaid_). Directed by Benoît Jacquot. Color, 96 min. Les Films du Lendemain, JPG Productions, Les Films du Fleuve, 2015.
 
 « {{% resource_link 4e4a98ff-bb8d-62a8-c78d-7d413cc22d68 "Previous" %}} | {{% resource_link 6f1dd9f3-31b9-a21b-06e3-f172bf6911b1 "Next" %}} »

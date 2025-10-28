@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the list of topics, films, readings, and assignments
   for the fifth week of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Weeks 1-15
@@ -18,7 +16,7 @@ Session 7
 
 ### Topic
 
-[_Los olvidados_](http://www.imdb.com/title/tt0042804/?ref_=nv_sr_1). Directed by Luis Buñuel. Black and White, 80 min. Ultramar Films, 1950.
+{{% resource_link "0bbcab1e-f2ae-4726-9da5-0089d62a9d5b" "_Los olvidados_" %}}. Directed by Luis Buñuel. Black and White, 80 min. Ultramar Films, 1950.
 
 ### Reading
 
@@ -29,7 +27,7 @@ Session 8
 
 ### Topics
 
-Continue discussing [_Los olvidados_](http://www.imdb.com/title/tt0042804/?ref_=nv_sr_1).
+Continue discussing {{% resource_link "0bbcab1e-f2ae-4726-9da5-0089d62a9d5b" "_Los olvidados_" %}}.
 
 Student group report on _Los olvidados_.
 
